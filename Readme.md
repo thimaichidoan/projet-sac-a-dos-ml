@@ -28,7 +28,7 @@ Créer et activer l’environnement virtuel :
 ```bash
 python -m venv venv
 venv\Scripts\activate
-
+```
 
 Installer les dépendances :
 
