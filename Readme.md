@@ -18,6 +18,7 @@ projet-sac-a-dos-ml/
 ├── README.md
 ├── requirements.txt
 └── main.py
+```
 
 ## Instructions d’exécution
 
@@ -27,7 +28,7 @@ Créer et activer l’environnement virtuel :
 ```bash
 python -m venv venv
 venv\Scripts\activate
-```
+
 
 Installer les dépendances :
 
